@@ -108,14 +108,18 @@ Ziplink offers robust analytics for each shortened URL:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License 📄
+## 📞 Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to reach out to me for any questions or collaborations!
+
+- Email: vipulkatwal17@gmail.com
+- LinkedIn: [Vipul Katwal](https://www.linkedin.com/in/vipulkatwal)
+
 
 ## Live 💻
 
-Project Live Link: [https://ziplink-one.vercel.app]
+Project Live Link: [Cilck Here 👇](https://ziplink-one.vercel.app)
 
 ---
 
-Happy linking and analyzing! 📊🎉
+Happy linking and analyzing! 📊🎉 and ⭐️ Don't forget to star this repo if you found it helpful! ⭐️
