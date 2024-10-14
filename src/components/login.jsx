@@ -73,8 +73,15 @@ const Login = () => {
     }
   };
 
+ const handleDemoLogin = () => {
+    setFormData({
+      email: "demo@example.com",
+      password: "demopassword123"
+    });
+  };
+
   return (
-    <Card>
+     <Card>
       <CardHeader>
         <CardTitle>Login</CardTitle>
         <CardDescription>
@@ -89,6 +96,7 @@ const Login = () => {
             type="email"
             placeholder="Enter Email"
             onChange={handleInputChange}
+            value={formData.email}
           />
         </div>
         {errors.email && <Error message={errors.email} />}
@@ -98,12 +106,16 @@ const Login = () => {
             type="password"
             placeholder="Enter Password"
             onChange={handleInputChange}
+            value={formData.password}
           />
         </div>
         {errors.password && <Error message={errors.password} />}
+        <Button onClick={handleDemoLogin} variant="outline" className="w-full">
+          Use Demo Account
+        </Button>
       </CardContent>
       <CardFooter>
-        <Button onClick={handleLogin}>
+        <Button onClick={handleLogin} className="w-full">
           {loading ? <BeatLoader size={10} color="#5e17eb" /> : "Login"}
         </Button>
       </CardFooter>
