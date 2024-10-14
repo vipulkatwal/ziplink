@@ -43,7 +43,7 @@ const LandingPage = () => {
             className="h-12 px-5 rounded-xl bg-blue-500 hover:bg-blue-600 text-white transition-colors w-full sm:w-auto mt-2 sm:mt-0"
           >
             <Link className="h-5 w-5 mr-2" />
-            Shorten
+            Shrink!
           </Button>
         </div>
       </form>
