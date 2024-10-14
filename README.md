@@ -118,7 +118,7 @@ Feel free to reach out to me for any questions or collaborations!
 
 ## Live 💻
 
-Project Live Link: [Cilck Here 👇](https://ziplink-one.vercel.app)
+Project Live Link: [Cilck Here 👈](https://ziplink-one.vercel.app)
 
 ---
 
