@@ -112,7 +112,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact 📧
+## Live 💻
 
 Project Live Link: [https://ziplink-one.vercel.app]
 
