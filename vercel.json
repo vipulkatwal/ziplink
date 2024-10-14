@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/:shortId", "destination": "/api/redirect" },
+      { "source": "/(.*)", "destination": "/index.html" }
+    ]
+  }
