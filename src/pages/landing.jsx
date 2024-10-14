@@ -42,7 +42,7 @@ const LandingPage = () => {
           </div>
           <Button
             type="submit"
-            className="h-12 px-5 rounded-xl bg-red-700 hover:bg-red-800 text-white transition-colors"
+            className="h-12 px-5 rounded-xl bg-blue-500 hover:bg-blue-600 text-white transition-colors"
           >
             <Link className="h-5 w-5" />
           </Button>
